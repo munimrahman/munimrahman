@@ -1,5 +1,3 @@
-![](https://i.ibb.co/WGZ9kBr/Hello-I-am-Munim-Rahman.png)
-
 I want to build my career as a software professional at a progressive organization that offers immense growth opportunities, where I can implement my knowledge & expertise to bring unique attributes to the organization. Want to prove myself as an adaptive learner and supportive team player also.
 
 **Skills:**  HTML / CSS / JavaScript / ES6 / React / Bootstrap / Node / MongoDB
